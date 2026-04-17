@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Env vars
+.env
+
+# MacOS
+.DS_Store
