@@ -95,3 +95,7 @@ X-Ray-Analyzer-Citra-Dada/
 
 ## 👨‍💻 Background
 Developed as part of an academic requirement for the course *Pengolahan Citra Digital* (Digital Image Processing). Aimed at providing accessible tools for preprocessing visual data typically used before Machine Learning or AI analysis.
+
+Mhd.Febri Yansah 2301020104
+Nanda Apriyani 2301020119
+Universitas Maritim Raja Ali Haji
